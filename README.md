@@ -2,6 +2,8 @@
 
 *其他语言版本： [简体中文](README.zh.md)*
 
+This package is no longer supported by Agora.io as it is using a deprecated version of Agora's Flutter SDK. To get started with [Agora's Flutter SDK](https://pub.dev/packages/agora_rtc_engine) you can refer the QuickStart guide given over [here](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)
+
 This tutorial describes how to create an Agora account and build a sample app with Agora using [Flutter](https://flutter.io/).
 
 ## Prerequisites
